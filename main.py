@@ -29,6 +29,7 @@ def gpt(inp,prompt):
                first confirm the Country they want to travel.
                then after complete assesment you have to tell them if they've all the required stuff and they are Eligible for the VISA or not.
                ask question one by one and give the options as well. 
+               IMPORTNAT: Keep your answers short and ask only one question at a time
 """}
     new_inp = inp
     new_inp.insert(0,systems)
