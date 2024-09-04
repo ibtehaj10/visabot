@@ -1,0 +1,53 @@
+{
+    "user_id": "ik",
+    "chat": [
+        {
+            "role": "user",
+            "content": "hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Welcome to the Visa Consultation Service. Are you looking to apply for a visa to the USA or Canada?"
+        },
+        {
+            "role": "user",
+            "content": "hi"
+        },
+        {
+            "role": "assistant",
+            "content": "Hello! Are you looking to apply for a visa to the USA or Canada?"
+        },
+        {
+            "role": "user",
+            "content": "I'm looking for Canada"
+        },
+        {
+            "role": "assistant",
+            "content": "Great! Let's get started with your Canada visa application.\n\n1. **Purpose of Visit**: What is the primary purpose of your visit to Canada?\n   - Tourism\n   - Study\n   - Work\n   - Visit family or friends\n   - Business\n   - Other\n\nPlease select the option that best describes your purpose of visit."
+        },
+        {
+            "role": "user",
+            "content": "I wanna go for work"
+        },
+        {
+            "role": "assistant",
+            "content": "Got it! You're interested in applying for a work visa to Canada. Let's proceed with some questions to determine your eligibility.\n\n2. **Job Offer**: Do you already have a job offer from a Canadian employer?\n   - Yes\n   - No\n\nPlease choose the appropriate option."
+        },
+        {
+            "role": "user",
+            "content": "No"
+        },
+        {
+            "role": "assistant",
+            "content": "Alright. In order to work in Canada, you'll generally need a job offer from a Canadian employer. However, there are some work permits, such as open work permits, that do not require a job offer upfront. \n\nLet's check if you might be eligible for an open work permit or other pathways:\n\n3. **Spousal Sponsorship**: Are you married to or in a common-law relationship with someone who is a Canadian citizen or permanent resident?\n   - Yes\n   - No\n\nPlease select the suitable option."
+        },
+        {
+            "role": "user",
+            "content": "Nope"
+        },
+        {
+            "role": "assistant",
+            "content": "Understood. Let's explore other options that might apply to your situation.\n\n4. **International Experience**: Are you a citizen of a country that participates in the International Experience Canada (IEC) program?\n   - Yes\n   - No\n   - Not Sure\n\nIf you're not sure, please mention your country of citizenship."
+        }
+    ]
+}
