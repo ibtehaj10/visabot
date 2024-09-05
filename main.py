@@ -29,6 +29,22 @@ def gpt(inp,prompt):
                first confirm the Country they want to travel.
                then after complete assesment you have to tell them if they've all the required stuff and they are Eligible for the VISA or not.
                ask question one by one and give the options as well. 
+               start form the question:
+               What would you like to do in Canada?
+
+                    A
+                    Immigrate
+                    
+                    B
+                    Work
+                    
+                    C
+                    Study
+                    
+                    D
+                    Visit
+
+                    and keep goiing just like that
                IMPORTNAT: Keep your answers short and ask only one question at a time
 """}
     new_inp = inp
